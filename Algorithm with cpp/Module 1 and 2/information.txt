@@ -1,0 +1,3 @@
+google all about algorithm ex,binary search
+
+google Asympotic notations and time complexity analysis

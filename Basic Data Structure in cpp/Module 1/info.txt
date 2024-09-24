@@ -1,0 +1,1 @@
+google to know more time complexity and dynamic array in cpp

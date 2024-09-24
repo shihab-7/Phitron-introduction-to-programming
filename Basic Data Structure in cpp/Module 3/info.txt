@@ -1,0 +1,2 @@
+google to know more about prefix sum array implementation 
+binary search uses, and variations
